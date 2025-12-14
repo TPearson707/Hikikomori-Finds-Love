@@ -7,7 +7,7 @@ using namespace std;
 using namespace chrono;
 class bully
 {
-private:
+private: // Data Members
     char bullyChar;
     char minBullySpawn;
     char maxBullySpawn;
